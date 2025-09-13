@@ -3,6 +3,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://waste-management-tracker.netlify.app/)
 
 🌍 **Live Demo**: [waste-management-tracker.netlify.app](https://waste-management-tracker.netlify.app/)
+
 📝 **DevPost Project**: https://devpost.com/software/waste-management-app-plastic-e-waste-tracking-system  
 
 ---
