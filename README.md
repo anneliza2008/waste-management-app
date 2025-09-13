@@ -48,7 +48,7 @@ src/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/waste-management-app.git
+git clone https://github.com/anneliza2008/waste-management-app.git
 cd waste-management-app
 ```
 
