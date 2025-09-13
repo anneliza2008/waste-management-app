@@ -20,7 +20,7 @@ Deployed on **Netlify** with automatic CI/CD from GitHub.
 - **Waste Logging** – log daily waste by type (Plastic, E-waste, Paper, Organic).  
 - **Waste Summary** – weekly tracking with item counts and simple summaries.  
 - **Recycling Directory** – static list of nearby recycling centers (expandable later with maps API).  
-- **Eco-Friendly UI** – minimal green/white theme to encourage sustainable habits.  
+- **Eco-Friendly UI** – Minimal clean UI designed for simplicity and ease of tracking waste habits.  
 
 ---
 
