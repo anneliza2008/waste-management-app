@@ -63,18 +63,15 @@ npm run build
 ---
 
 ## 📸 Screenshots
-(Add screenshots in `/docs` folder and reference here, e.g.)  
 
-![Waste Logger](docs/logger.png)  
-![Waste Summary](docs/summary.png)  
+**Waste Logger**
+![Waste Logger](docs/waste-logger.png)
 
----
+**Waste Summary**
+![Waste Summary](docs/waste-summary.png)
 
-## 📈 Future Improvements
-- Add Firebase backend for real-time storage  
-- Integrate Google Maps API for recycling centers  
-- Visual charts for monthly waste trends  
-- User authentication and profiles  
+**Recycling Centers**
+![Recycling Centers](docs/recycling-centers.png)
 
 ---
 
