@@ -1,6 +1,6 @@
 # ♻️ Waste Management Tracker
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://waste-management-tracker.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/45773204-0381-4f2e-a2f7-072ddfa84aed/deploy-status)](https://waste-management-tracker.netlify.app/)
 
 🌍 **Live Demo**: [waste-management-tracker.netlify.app](https://waste-management-tracker.netlify.app/)
 
