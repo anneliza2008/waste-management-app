@@ -9,7 +9,7 @@
 ---
 
 ## 📌 Project Overview
-A React-based web application that helps users **track plastic & e-waste**, view a **weekly summary**, and find **nearby recycling centers**.  
+A React-based web application that helps users **log plastic & e-waste**, view **waste summary**, and find **nearby recycling centers**.  
 
 Built to raise environmental awareness and encourage sustainable disposal habits.  
 Deployed on **Netlify** with automatic CI/CD from GitHub.  
@@ -18,7 +18,7 @@ Deployed on **Netlify** with automatic CI/CD from GitHub.
 
 ## ✨ Features
 - **Waste Logging** – log daily waste by type (Plastic, E-waste, Paper, Organic).  
-- **Waste Summary** – weekly tracking with item counts and simple summaries.  
+- **Waste Summary** – tracking with item counts and simple summaries.  
 - **Recycling Directory** – static list of nearby recycling centers (expandable later with maps API).  
 - **Eco-Friendly UI** – Minimal clean UI designed for simplicity and ease of tracking waste habits.  
 
