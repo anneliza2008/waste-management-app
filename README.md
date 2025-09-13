@@ -9,7 +9,7 @@
 ---
 
 ## 📌 Project Overview
-A React-based web application that helps users **log plastic & e-waste**, view **waste summary**, and find **nearby recycling centers**.  
+A React-based web application that helps users **log plastic, organic, paper & e-waste**, view **waste summary**, and find **nearby recycling centers**.  
 
 Built to raise environmental awareness and encourage sustainable disposal habits.  
 Deployed on **Netlify** with automatic CI/CD from GitHub.  
