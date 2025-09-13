@@ -1,10 +1,16 @@
-# Waste Management App (Plastic & E-Waste Tracking)
+# ♻️ Waste Management Tracker
 
-A simple React app that helps users track their waste habits and encourages proper recycling.  
-Built as part of the **DevPost / YPStem Green Pioneers Hackathon (2025)**.  
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR-BADGE-ID/deploy-status)](https://waste-management-tracker.netlify.app/)
 
-🌍 **Live Demo**: https://fancy-ganache-941ea0.netlify.app  
-📝 **DevPost Project**: https://devpost.com/software/waste-management-app-plastic-e-waste-tracking-system  
+🌍 **Live Demo**: [waste-management-tracker.netlify.app](https://waste-management-tracker.netlify.app/)
+
+---
+
+## 📌 Project Overview
+A React-based web application that helps users **track plastic & e-waste**, view a **weekly summary**, and find **nearby recycling centers**.  
+
+Built to raise environmental awareness and encourage sustainable disposal habits.  
+Deployed on **Netlify** with automatic CI/CD from GitHub.  
 
 ---
 
